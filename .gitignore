@@ -1,1 +1,5 @@
 *.pyc
+*.csv
+*.png
+*.jpg
+src/.ipynb_checkpoints/*
